@@ -8,7 +8,7 @@ The applications tunneled in regular DNS traffic are SSH and p2p through DNS2TCP
 
 The rule-based models for detection are also reported as well as the Matlab code for data visualization. Rules are derived through the logic learning machine in www.rulex.ai. Other approaches, such as decision trees and rule-extraction from deep neural networks, are studied in the reference paper.
 
-maurizio.mongelli@cnr.it.
+For larger datasets or any issue: maurizio.mongelli@cnr.it.
 
 [1] G. De Bernardi, G. Battista Gaggero, F. Patrone, M. Mongelli, M. Marchese, "Rule-based eXplainable Autoencoder for DNS Tunneling Detection," Computer Communication, submitted.
 
