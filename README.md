@@ -14,6 +14,6 @@ They are parsed by main.cpp.
 
 For larger datasets or any issue: maurizio.mongelli@cnr.it.
 
-[1] G. De Bernardi, G. Battista Gaggero, F. Patrone, M. Mongelli, M. Marchese, "Rule-based eXplainable Autoencoder for DNS Tunneling Detection," Computer Communication, submitted.
+[1] Sara Narteni, Alberto Carlevaro, Fabrizio Dabbene, Marco Muselli, Maurizio Mongelli, "CONFIDERAI: a novel CONFormal Interpretable-by-Design score function for Explainable and Reliable Artificial Intelligence", International Scientific Journal Engineering Applications of Artificial Intelligence, submitted.
 
 [2] Aiello, M., Mongelli, M., and Papaleo, G. (2015) DNS tunneling detection through statistical fingerprints of protocol messages and machine learning. Int. J. Commun. Syst., 28: 1987–2002. doi: 10.1002/dac.2836.
